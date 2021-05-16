@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Austen Stewart"
+theme = "book"
+
+[params]
+  author='Austen Stewart'
+  description='programming with no purpose'
+  BookSection='*'
+  BookLogo='aesthetic.jpg'
+
+[[menu.after]]
+  name = "GitHub"
+  url = "https://github.com/stewartad"
+  weight = 10
+
+[[menu.after]]
+  name = "Twitter"
+  url = "https://twitter.com/stewartad"
+  weight = 20
+
+[[menu.after]]
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UC8DzSXQ0evNWSRvgQM_ZDdw"
+  weight = 30

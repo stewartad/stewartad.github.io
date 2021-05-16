@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Austen Stewart</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on Austen Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Card Games</title>
+      <link>http://example.org/categories/card-games/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/card-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>http://example.org/categories/development/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeekerBot</title>
+      <link>http://example.org/categories/seekerbot/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/seekerbot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
