@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Austen Stewart</title>
-    <link>http://example.org/tags/</link>
+    <link>http://austendstewart.com/tags/</link>
     <description>Recent content in Tags on Austen Stewart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://austendstewart.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>discord</title>
-      <link>http://example.org/tags/discord/</link>
+      <link>http://austendstewart.com/tags/discord/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/discord/</guid>
+      <guid>http://austendstewart.com/tags/discord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>http://example.org/tags/python/</link>
+      <link>http://austendstewart.com/tags/python/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/python/</guid>
+      <guid>http://austendstewart.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>transformers tcg</title>
-      <link>http://example.org/tags/transformers-tcg/</link>
+      <link>http://austendstewart.com/tags/transformers-tcg/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/transformers-tcg/</guid>
+      <guid>http://austendstewart.com/tags/transformers-tcg/</guid>
       <description></description>
     </item>
     

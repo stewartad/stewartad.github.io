@@ -16,7 +16,7 @@ theme = "book"
 
 [[menu.after]]
   name = "Twitter"
-  url = "https://twitter.com/stewartad"
+  url = "https://twitter.com/austends"
   weight = 20
 
 [[menu.after]]

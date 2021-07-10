@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/seekerbot/documentation/</loc>
+    <loc>http://austendstewart.com/seekerbot/documentation/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/seekerbot/changelogs/changelog_v1.1.0/</loc>
+    <loc>http://austendstewart.com/seekerbot/changelogs/changelog_v1.1.0/</loc>
     <lastmod>2021-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://austendstewart.com/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/card-games/</loc>
+    <loc>http://austendstewart.com/categories/card-games/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://austendstewart.com/categories/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>http://austendstewart.com/categories/development/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/discord/</loc>
+    <loc>http://austendstewart.com/tags/discord/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/python/</loc>
+    <loc>http://austendstewart.com/tags/python/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/seekerbot/</loc>
+    <loc>http://austendstewart.com/categories/seekerbot/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/seekerbot/</loc>
+    <loc>http://austendstewart.com/seekerbot/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://austendstewart.com/tags/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/transformers-tcg/</loc>
+    <loc>http://austendstewart.com/tags/transformers-tcg/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://austendstewart.com/posts/</loc>
     <lastmod>2021-02-25T03:29:59+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/welcome/</loc>
+    <loc>http://austendstewart.com/posts/welcome/</loc>
     <lastmod>2021-02-25T03:29:59+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://austendstewart.com/about/</loc>
     <priority>0</priority>
   </url>
 </urlset>
