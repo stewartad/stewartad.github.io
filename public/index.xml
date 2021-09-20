@@ -5,64 +5,6 @@
     <link>http://austendstewart.com/</link>
     <description>Recent content on Austen Stewart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://austendstewart.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SeekerBot Documentation</title>
-      <link>http://austendstewart.com/seekerbot/documentation/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/seekerbot/documentation/</guid>
-      <description>&lt;h1 id=&#34;seekerbot&#34;&gt;
-  SeekerBot
-  &lt;a class=&#34;anchor&#34; href=&#34;#seekerbot&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;SeekerBot is a Discord bot designed to track Transformers TCG match results.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>SeekerBot 1.1.0</title>
-      <link>http://austendstewart.com/seekerbot/changelogs/changelog_v1.1.0/</link>
-      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/seekerbot/changelogs/changelog_v1.1.0/</guid>
-      <description>&lt;h1 id=&#34;seekerbot-version-110-changelog&#34;&gt;
-  SeekerBot Version 1.1.0 Changelog
-  &lt;a class=&#34;anchor&#34; href=&#34;#seekerbot-version-110-changelog&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Fixed &lt;code&gt;!stats&lt;/code&gt; command for users without games logged in the current week and month&lt;/li&gt;
-&lt;li&gt;implemented &lt;code&gt;!undo&lt;/code&gt; command
-&lt;ul&gt;
-&lt;li&gt;undo can only be done within 5 minutes of the original report&lt;/li&gt;
-&lt;li&gt;only one of the participants can undo the match (even if it was reported by someone else)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Fixed reporting mistakes&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>http://austendstewart.com/posts/welcome/</link>
-      <pubDate>Thu, 25 Feb 2021 03:29:59 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/posts/welcome/</guid>
-      <description>&lt;h1 id=&#34;hello&#34;&gt;
-  Hello
-  &lt;a class=&#34;anchor&#34; href=&#34;#hello&#34;&gt;#&lt;/a&gt;
-&lt;/h1&gt;
-&lt;p&gt;This is my new site&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://austendstewart.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/about/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://austendstewart.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

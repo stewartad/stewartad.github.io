@@ -5,34 +5,6 @@
     <link>http://austendstewart.com/categories/</link>
     <description>Recent content in Categories on Austen Stewart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://austendstewart.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Card Games</title>
-      <link>http://austendstewart.com/categories/card-games/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/categories/card-games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://austendstewart.com/categories/development/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SeekerBot</title>
-      <link>http://austendstewart.com/categories/seekerbot/</link>
-      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://austendstewart.com/categories/seekerbot/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://austendstewart.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
