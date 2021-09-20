@@ -7,6 +7,7 @@ tags:
 - python
 - discord
 - transformers tcg
+draft: false
 weight: 3
 ---
 
