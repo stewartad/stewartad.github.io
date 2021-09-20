@@ -1,19 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SeekerBot on Austen Stewart</title><link>http://austendstewart.com/categories/seekerbot/</link><description>Recent content in SeekerBot on Austen Stewart</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 20 Sep 2021 01:56:22 +0000</lastBuildDate><atom:link href="http://austendstewart.com/categories/seekerbot/index.xml" rel="self" type="application/rss+xml"/><item><title>SeekerBot Documentation</title><link>http://austendstewart.com/seekerbot/documentation/</link><pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate><guid>http://austendstewart.com/seekerbot/documentation/</guid><description>&lt;h1 id="seekerbot">
-SeekerBot
-&lt;a class="anchor" href="#seekerbot">#&lt;/a>
-&lt;/h1>
-&lt;p>SeekerBot is a Discord bot designed to track Transformers TCG match results.&lt;/p></description></item><item><title>SeekerBot 2.0.0 beta 1</title><link>http://austendstewart.com/posts/changelog_v2.0.0-beta1/</link><pubDate>Mon, 20 Sep 2021 01:56:22 +0000</pubDate><guid>http://austendstewart.com/posts/changelog_v2.0.0-beta1/</guid><description>New Features # Backend upgrades # SeekerBot now uses a REST API to report and retrieve data. This doesn&amp;rsquo;t provide much functionality to users (yet) but enables more complex features in the future.
-In addition, Discord has been changing their bot policies recently and will stop letting bots read full message contents starting early next year, requiring them instead to use &amp;ldquo;slash commands&amp;rdquo;. This policy is supposed to only affect bots in more than 100 guilds, which would leave SeekerBot unaffected, however the writing is on the wall.</description></item><item><title>SeekerBot 1.1.0</title><link>http://austendstewart.com/posts/changelog_v1.1.0/</link><pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate><guid>http://austendstewart.com/posts/changelog_v1.1.0/</guid><description>&lt;h1 id="seekerbot-version-110-changelog">
-SeekerBot Version 1.1.0 Changelog
-&lt;a class="anchor" href="#seekerbot-version-110-changelog">#&lt;/a>
-&lt;/h1>
-&lt;ul>
-&lt;li>Fixed &lt;code>!stats&lt;/code> command for users without games logged in the current week and month&lt;/li>
-&lt;li>implemented &lt;code>!undo&lt;/code> command
-&lt;ul>
-&lt;li>undo can only be done within 5 minutes of the original report&lt;/li>
-&lt;li>only one of the participants can undo the match (even if it was reported by someone else)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Fixed reporting mistakes&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SeekerBot on Austen Stewart</title>
+    <link>http://austendstewart.com/categories/seekerbot/</link>
+    <description>Recent content in SeekerBot on Austen Stewart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://austendstewart.com/categories/seekerbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SeekerBot Documentation</title>
+      <link>http://austendstewart.com/seekerbot/documentation/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://austendstewart.com/seekerbot/documentation/</guid>
+      <description>&lt;h1 id=&#34;seekerbot&#34;&gt;
+  SeekerBot
+  &lt;a class=&#34;anchor&#34; href=&#34;#seekerbot&#34;&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;SeekerBot is a Discord bot designed to track Transformers TCG match results.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SeekerBot 1.1.0</title>
+      <link>http://austendstewart.com/seekerbot/changelogs/changelog_v1.1.0/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://austendstewart.com/seekerbot/changelogs/changelog_v1.1.0/</guid>
+      <description>&lt;h1 id=&#34;seekerbot-version-110-changelog&#34;&gt;
+  SeekerBot Version 1.1.0 Changelog
+  &lt;a class=&#34;anchor&#34; href=&#34;#seekerbot-version-110-changelog&#34;&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed &lt;code&gt;!stats&lt;/code&gt; command for users without games logged in the current week and month&lt;/li&gt;
+&lt;li&gt;implemented &lt;code&gt;!undo&lt;/code&gt; command
+&lt;ul&gt;
+&lt;li&gt;undo can only be done within 5 minutes of the original report&lt;/li&gt;
+&lt;li&gt;only one of the participants can undo the match (even if it was reported by someone else)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Fixed reporting mistakes&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
