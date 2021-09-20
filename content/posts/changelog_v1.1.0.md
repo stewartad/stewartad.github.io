@@ -4,8 +4,6 @@ date: 2021-02-26
 draft: false
 categories:
 - SeekerBot
-- Development
-- Card Games
 tags:
 - python
 - discord
